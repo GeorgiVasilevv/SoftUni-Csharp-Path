@@ -1,0 +1,17 @@
+C:\Users\User\source\repos\CSharpWebFundamentals-TaskBoardApp-WorkShop\TaskBoardApp.Logic\bin\Debug\net6.0\TaskBoardApp.Core.deps.json
+C:\Users\User\source\repos\CSharpWebFundamentals-TaskBoardApp-WorkShop\TaskBoardApp.Logic\bin\Debug\net6.0\TaskBoardApp.Core.dll
+C:\Users\User\source\repos\CSharpWebFundamentals-TaskBoardApp-WorkShop\TaskBoardApp.Logic\bin\Debug\net6.0\TaskBoardApp.Core.pdb
+C:\Users\User\source\repos\CSharpWebFundamentals-TaskBoardApp-WorkShop\TaskBoardApp.Logic\obj\Debug\net6.0\TaskBoardApp.Core.csproj.AssemblyReference.cache
+C:\Users\User\source\repos\CSharpWebFundamentals-TaskBoardApp-WorkShop\TaskBoardApp.Logic\obj\Debug\net6.0\TaskBoardApp.Core.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\source\repos\CSharpWebFundamentals-TaskBoardApp-WorkShop\TaskBoardApp.Logic\obj\Debug\net6.0\TaskBoardApp.Core.AssemblyInfoInputs.cache
+C:\Users\User\source\repos\CSharpWebFundamentals-TaskBoardApp-WorkShop\TaskBoardApp.Logic\obj\Debug\net6.0\TaskBoardApp.Core.AssemblyInfo.cs
+C:\Users\User\source\repos\CSharpWebFundamentals-TaskBoardApp-WorkShop\TaskBoardApp.Logic\obj\Debug\net6.0\TaskBoardApp.Core.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\CSharpWebFundamentals-TaskBoardApp-WorkShop\TaskBoardApp.Logic\obj\Debug\net6.0\TaskBoardApp.Core.dll
+C:\Users\User\source\repos\CSharpWebFundamentals-TaskBoardApp-WorkShop\TaskBoardApp.Logic\obj\Debug\net6.0\refint\TaskBoardApp.Core.dll
+C:\Users\User\source\repos\CSharpWebFundamentals-TaskBoardApp-WorkShop\TaskBoardApp.Logic\obj\Debug\net6.0\TaskBoardApp.Core.pdb
+C:\Users\User\source\repos\CSharpWebFundamentals-TaskBoardApp-WorkShop\TaskBoardApp.Logic\obj\Debug\net6.0\ref\TaskBoardApp.Core.dll
+C:\Users\User\source\repos\CSharpWebFundamentals-TaskBoardApp-WorkShop\TaskBoardApp.Logic\bin\Debug\net6.0\TaskBoardApp.Common.dll
+C:\Users\User\source\repos\CSharpWebFundamentals-TaskBoardApp-WorkShop\TaskBoardApp.Logic\bin\Debug\net6.0\TaskBoardApp.Data.dll
+C:\Users\User\source\repos\CSharpWebFundamentals-TaskBoardApp-WorkShop\TaskBoardApp.Logic\bin\Debug\net6.0\TaskBoardApp.Data.pdb
+C:\Users\User\source\repos\CSharpWebFundamentals-TaskBoardApp-WorkShop\TaskBoardApp.Logic\bin\Debug\net6.0\TaskBoardApp.Common.pdb
+C:\Users\User\source\repos\CSharpWebFundamentals-TaskBoardApp-WorkShop\TaskBoardApp.Logic\obj\Debug\net6.0\TaskBoardApp.Core.csproj.CopyComplete
