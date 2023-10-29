@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31729.503
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "tutorials", "tutorials\tutorials.csproj", "{BBBA9949-3BEF-49E6-B02D-F4A6E2618C47}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CustomMath", "CustomMath\CustomMath.csproj", "{0A29BE22-F2E7-402E-951A-959817698BFF}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{BBBA9949-3BEF-49E6-B02D-F4A6E2618C47}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BBBA9949-3BEF-49E6-B02D-F4A6E2618C47}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BBBA9949-3BEF-49E6-B02D-F4A6E2618C47}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BBBA9949-3BEF-49E6-B02D-F4A6E2618C47}.Release|Any CPU.Build.0 = Release|Any CPU
+		{0A29BE22-F2E7-402E-951A-959817698BFF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0A29BE22-F2E7-402E-951A-959817698BFF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0A29BE22-F2E7-402E-951A-959817698BFF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0A29BE22-F2E7-402E-951A-959817698BFF}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {202CB58C-B759-469D-AD3E-E5CEC2BC69E6}
+	EndGlobalSection
+EndGlobal
