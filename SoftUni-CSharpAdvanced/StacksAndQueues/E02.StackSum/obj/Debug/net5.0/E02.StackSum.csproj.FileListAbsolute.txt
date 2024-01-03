@@ -1,0 +1,16 @@
+C:\Users\pc1\source\repos\StacksAndQueues\E02.StackSum\bin\Debug\net5.0\E02.StackSum.exe
+C:\Users\pc1\source\repos\StacksAndQueues\E02.StackSum\bin\Debug\net5.0\E02.StackSum.deps.json
+C:\Users\pc1\source\repos\StacksAndQueues\E02.StackSum\bin\Debug\net5.0\E02.StackSum.runtimeconfig.json
+C:\Users\pc1\source\repos\StacksAndQueues\E02.StackSum\bin\Debug\net5.0\E02.StackSum.runtimeconfig.dev.json
+C:\Users\pc1\source\repos\StacksAndQueues\E02.StackSum\bin\Debug\net5.0\E02.StackSum.dll
+C:\Users\pc1\source\repos\StacksAndQueues\E02.StackSum\bin\Debug\net5.0\E02.StackSum.pdb
+C:\Users\pc1\source\repos\StacksAndQueues\E02.StackSum\obj\Debug\net5.0\E02.StackSum.csproj.AssemblyReference.cache
+C:\Users\pc1\source\repos\StacksAndQueues\E02.StackSum\obj\Debug\net5.0\E02.StackSum.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\pc1\source\repos\StacksAndQueues\E02.StackSum\obj\Debug\net5.0\E02.StackSum.AssemblyInfoInputs.cache
+C:\Users\pc1\source\repos\StacksAndQueues\E02.StackSum\obj\Debug\net5.0\E02.StackSum.AssemblyInfo.cs
+C:\Users\pc1\source\repos\StacksAndQueues\E02.StackSum\obj\Debug\net5.0\E02.StackSum.csproj.CoreCompileInputs.cache
+C:\Users\pc1\source\repos\StacksAndQueues\E02.StackSum\obj\Debug\net5.0\E02.StackSum.dll
+C:\Users\pc1\source\repos\StacksAndQueues\E02.StackSum\obj\Debug\net5.0\refint\E02.StackSum.dll
+C:\Users\pc1\source\repos\StacksAndQueues\E02.StackSum\obj\Debug\net5.0\E02.StackSum.pdb
+C:\Users\pc1\source\repos\StacksAndQueues\E02.StackSum\obj\Debug\net5.0\E02.StackSum.genruntimeconfig.cache
+C:\Users\pc1\source\repos\StacksAndQueues\E02.StackSum\obj\Debug\net5.0\ref\E02.StackSum.dll
