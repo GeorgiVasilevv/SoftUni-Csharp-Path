@@ -1,0 +1,16 @@
+C:\Users\pc1\source\repos\StacksAndQueues\E06.Supermarket\bin\Debug\net5.0\E06.Supermarket.exe
+C:\Users\pc1\source\repos\StacksAndQueues\E06.Supermarket\bin\Debug\net5.0\E06.Supermarket.deps.json
+C:\Users\pc1\source\repos\StacksAndQueues\E06.Supermarket\bin\Debug\net5.0\E06.Supermarket.runtimeconfig.json
+C:\Users\pc1\source\repos\StacksAndQueues\E06.Supermarket\bin\Debug\net5.0\E06.Supermarket.runtimeconfig.dev.json
+C:\Users\pc1\source\repos\StacksAndQueues\E06.Supermarket\bin\Debug\net5.0\E06.Supermarket.dll
+C:\Users\pc1\source\repos\StacksAndQueues\E06.Supermarket\bin\Debug\net5.0\E06.Supermarket.pdb
+C:\Users\pc1\source\repos\StacksAndQueues\E06.Supermarket\obj\Debug\net5.0\E06.Supermarket.csproj.AssemblyReference.cache
+C:\Users\pc1\source\repos\StacksAndQueues\E06.Supermarket\obj\Debug\net5.0\E06.Supermarket.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\pc1\source\repos\StacksAndQueues\E06.Supermarket\obj\Debug\net5.0\E06.Supermarket.AssemblyInfoInputs.cache
+C:\Users\pc1\source\repos\StacksAndQueues\E06.Supermarket\obj\Debug\net5.0\E06.Supermarket.AssemblyInfo.cs
+C:\Users\pc1\source\repos\StacksAndQueues\E06.Supermarket\obj\Debug\net5.0\E06.Supermarket.csproj.CoreCompileInputs.cache
+C:\Users\pc1\source\repos\StacksAndQueues\E06.Supermarket\obj\Debug\net5.0\E06.Supermarket.dll
+C:\Users\pc1\source\repos\StacksAndQueues\E06.Supermarket\obj\Debug\net5.0\refint\E06.Supermarket.dll
+C:\Users\pc1\source\repos\StacksAndQueues\E06.Supermarket\obj\Debug\net5.0\E06.Supermarket.pdb
+C:\Users\pc1\source\repos\StacksAndQueues\E06.Supermarket\obj\Debug\net5.0\E06.Supermarket.genruntimeconfig.cache
+C:\Users\pc1\source\repos\StacksAndQueues\E06.Supermarket\obj\Debug\net5.0\ref\E06.Supermarket.dll
