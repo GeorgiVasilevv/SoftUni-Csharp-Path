@@ -1,0 +1,16 @@
+C:\Users\pc1\source\repos\StacksAndQueues\E03.SimpleCalculator\bin\Debug\net5.0\E03.SimpleCalculator.exe
+C:\Users\pc1\source\repos\StacksAndQueues\E03.SimpleCalculator\bin\Debug\net5.0\E03.SimpleCalculator.deps.json
+C:\Users\pc1\source\repos\StacksAndQueues\E03.SimpleCalculator\bin\Debug\net5.0\E03.SimpleCalculator.runtimeconfig.json
+C:\Users\pc1\source\repos\StacksAndQueues\E03.SimpleCalculator\bin\Debug\net5.0\E03.SimpleCalculator.runtimeconfig.dev.json
+C:\Users\pc1\source\repos\StacksAndQueues\E03.SimpleCalculator\bin\Debug\net5.0\E03.SimpleCalculator.dll
+C:\Users\pc1\source\repos\StacksAndQueues\E03.SimpleCalculator\bin\Debug\net5.0\E03.SimpleCalculator.pdb
+C:\Users\pc1\source\repos\StacksAndQueues\E03.SimpleCalculator\obj\Debug\net5.0\E03.SimpleCalculator.csproj.AssemblyReference.cache
+C:\Users\pc1\source\repos\StacksAndQueues\E03.SimpleCalculator\obj\Debug\net5.0\E03.SimpleCalculator.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\pc1\source\repos\StacksAndQueues\E03.SimpleCalculator\obj\Debug\net5.0\E03.SimpleCalculator.AssemblyInfoInputs.cache
+C:\Users\pc1\source\repos\StacksAndQueues\E03.SimpleCalculator\obj\Debug\net5.0\E03.SimpleCalculator.AssemblyInfo.cs
+C:\Users\pc1\source\repos\StacksAndQueues\E03.SimpleCalculator\obj\Debug\net5.0\E03.SimpleCalculator.csproj.CoreCompileInputs.cache
+C:\Users\pc1\source\repos\StacksAndQueues\E03.SimpleCalculator\obj\Debug\net5.0\E03.SimpleCalculator.dll
+C:\Users\pc1\source\repos\StacksAndQueues\E03.SimpleCalculator\obj\Debug\net5.0\refint\E03.SimpleCalculator.dll
+C:\Users\pc1\source\repos\StacksAndQueues\E03.SimpleCalculator\obj\Debug\net5.0\E03.SimpleCalculator.pdb
+C:\Users\pc1\source\repos\StacksAndQueues\E03.SimpleCalculator\obj\Debug\net5.0\E03.SimpleCalculator.genruntimeconfig.cache
+C:\Users\pc1\source\repos\StacksAndQueues\E03.SimpleCalculator\obj\Debug\net5.0\ref\E03.SimpleCalculator.dll
