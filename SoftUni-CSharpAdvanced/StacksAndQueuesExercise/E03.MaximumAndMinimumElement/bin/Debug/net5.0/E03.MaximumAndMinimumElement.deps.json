@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "E03.MaximumAndMinimumElement/1.0.0": {
+        "runtime": {
+          "E03.MaximumAndMinimumElement.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "E03.MaximumAndMinimumElement/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
