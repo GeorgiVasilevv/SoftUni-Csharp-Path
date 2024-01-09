@@ -1,0 +1,16 @@
+C:\Users\pc1\source\repos\StacksAndQueuesExercise\E07.TruckTour\bin\Debug\net5.0\E07.TruckTour.exe
+C:\Users\pc1\source\repos\StacksAndQueuesExercise\E07.TruckTour\bin\Debug\net5.0\E07.TruckTour.deps.json
+C:\Users\pc1\source\repos\StacksAndQueuesExercise\E07.TruckTour\bin\Debug\net5.0\E07.TruckTour.runtimeconfig.json
+C:\Users\pc1\source\repos\StacksAndQueuesExercise\E07.TruckTour\bin\Debug\net5.0\E07.TruckTour.runtimeconfig.dev.json
+C:\Users\pc1\source\repos\StacksAndQueuesExercise\E07.TruckTour\bin\Debug\net5.0\E07.TruckTour.dll
+C:\Users\pc1\source\repos\StacksAndQueuesExercise\E07.TruckTour\bin\Debug\net5.0\E07.TruckTour.pdb
+C:\Users\pc1\source\repos\StacksAndQueuesExercise\E07.TruckTour\obj\Debug\net5.0\E07.TruckTour.csproj.AssemblyReference.cache
+C:\Users\pc1\source\repos\StacksAndQueuesExercise\E07.TruckTour\obj\Debug\net5.0\E07.TruckTour.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\pc1\source\repos\StacksAndQueuesExercise\E07.TruckTour\obj\Debug\net5.0\E07.TruckTour.AssemblyInfoInputs.cache
+C:\Users\pc1\source\repos\StacksAndQueuesExercise\E07.TruckTour\obj\Debug\net5.0\E07.TruckTour.AssemblyInfo.cs
+C:\Users\pc1\source\repos\StacksAndQueuesExercise\E07.TruckTour\obj\Debug\net5.0\E07.TruckTour.csproj.CoreCompileInputs.cache
+C:\Users\pc1\source\repos\StacksAndQueuesExercise\E07.TruckTour\obj\Debug\net5.0\E07.TruckTour.dll
+C:\Users\pc1\source\repos\StacksAndQueuesExercise\E07.TruckTour\obj\Debug\net5.0\refint\E07.TruckTour.dll
+C:\Users\pc1\source\repos\StacksAndQueuesExercise\E07.TruckTour\obj\Debug\net5.0\E07.TruckTour.pdb
+C:\Users\pc1\source\repos\StacksAndQueuesExercise\E07.TruckTour\obj\Debug\net5.0\E07.TruckTour.genruntimeconfig.cache
+C:\Users\pc1\source\repos\StacksAndQueuesExercise\E07.TruckTour\obj\Debug\net5.0\ref\E07.TruckTour.dll
