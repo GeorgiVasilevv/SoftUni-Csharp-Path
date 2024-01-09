@@ -1,0 +1,16 @@
+C:\Users\pc1\source\repos\StacksAndQueuesExercise\E08.BalancedParentheses\bin\Debug\net5.0\E08.BalancedParentheses.exe
+C:\Users\pc1\source\repos\StacksAndQueuesExercise\E08.BalancedParentheses\bin\Debug\net5.0\E08.BalancedParentheses.deps.json
+C:\Users\pc1\source\repos\StacksAndQueuesExercise\E08.BalancedParentheses\bin\Debug\net5.0\E08.BalancedParentheses.runtimeconfig.json
+C:\Users\pc1\source\repos\StacksAndQueuesExercise\E08.BalancedParentheses\bin\Debug\net5.0\E08.BalancedParentheses.runtimeconfig.dev.json
+C:\Users\pc1\source\repos\StacksAndQueuesExercise\E08.BalancedParentheses\bin\Debug\net5.0\E08.BalancedParentheses.dll
+C:\Users\pc1\source\repos\StacksAndQueuesExercise\E08.BalancedParentheses\bin\Debug\net5.0\E08.BalancedParentheses.pdb
+C:\Users\pc1\source\repos\StacksAndQueuesExercise\E08.BalancedParentheses\obj\Debug\net5.0\E08.BalancedParentheses.csproj.AssemblyReference.cache
+C:\Users\pc1\source\repos\StacksAndQueuesExercise\E08.BalancedParentheses\obj\Debug\net5.0\E08.BalancedParentheses.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\pc1\source\repos\StacksAndQueuesExercise\E08.BalancedParentheses\obj\Debug\net5.0\E08.BalancedParentheses.AssemblyInfoInputs.cache
+C:\Users\pc1\source\repos\StacksAndQueuesExercise\E08.BalancedParentheses\obj\Debug\net5.0\E08.BalancedParentheses.AssemblyInfo.cs
+C:\Users\pc1\source\repos\StacksAndQueuesExercise\E08.BalancedParentheses\obj\Debug\net5.0\E08.BalancedParentheses.csproj.CoreCompileInputs.cache
+C:\Users\pc1\source\repos\StacksAndQueuesExercise\E08.BalancedParentheses\obj\Debug\net5.0\E08.BalancedParentheses.dll
+C:\Users\pc1\source\repos\StacksAndQueuesExercise\E08.BalancedParentheses\obj\Debug\net5.0\refint\E08.BalancedParentheses.dll
+C:\Users\pc1\source\repos\StacksAndQueuesExercise\E08.BalancedParentheses\obj\Debug\net5.0\E08.BalancedParentheses.pdb
+C:\Users\pc1\source\repos\StacksAndQueuesExercise\E08.BalancedParentheses\obj\Debug\net5.0\E08.BalancedParentheses.genruntimeconfig.cache
+C:\Users\pc1\source\repos\StacksAndQueuesExercise\E08.BalancedParentheses\obj\Debug\net5.0\ref\E08.BalancedParentheses.dll
