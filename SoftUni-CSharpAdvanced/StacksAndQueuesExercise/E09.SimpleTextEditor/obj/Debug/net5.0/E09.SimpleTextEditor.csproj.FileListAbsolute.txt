@@ -1,0 +1,16 @@
+C:\Users\pc1\source\repos\StacksAndQueuesExercise\E09.SimpleTextEditor\bin\Debug\net5.0\E09.SimpleTextEditor.exe
+C:\Users\pc1\source\repos\StacksAndQueuesExercise\E09.SimpleTextEditor\bin\Debug\net5.0\E09.SimpleTextEditor.deps.json
+C:\Users\pc1\source\repos\StacksAndQueuesExercise\E09.SimpleTextEditor\bin\Debug\net5.0\E09.SimpleTextEditor.runtimeconfig.json
+C:\Users\pc1\source\repos\StacksAndQueuesExercise\E09.SimpleTextEditor\bin\Debug\net5.0\E09.SimpleTextEditor.runtimeconfig.dev.json
+C:\Users\pc1\source\repos\StacksAndQueuesExercise\E09.SimpleTextEditor\bin\Debug\net5.0\E09.SimpleTextEditor.dll
+C:\Users\pc1\source\repos\StacksAndQueuesExercise\E09.SimpleTextEditor\bin\Debug\net5.0\E09.SimpleTextEditor.pdb
+C:\Users\pc1\source\repos\StacksAndQueuesExercise\E09.SimpleTextEditor\obj\Debug\net5.0\E09.SimpleTextEditor.csproj.AssemblyReference.cache
+C:\Users\pc1\source\repos\StacksAndQueuesExercise\E09.SimpleTextEditor\obj\Debug\net5.0\E09.SimpleTextEditor.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\pc1\source\repos\StacksAndQueuesExercise\E09.SimpleTextEditor\obj\Debug\net5.0\E09.SimpleTextEditor.AssemblyInfoInputs.cache
+C:\Users\pc1\source\repos\StacksAndQueuesExercise\E09.SimpleTextEditor\obj\Debug\net5.0\E09.SimpleTextEditor.AssemblyInfo.cs
+C:\Users\pc1\source\repos\StacksAndQueuesExercise\E09.SimpleTextEditor\obj\Debug\net5.0\E09.SimpleTextEditor.csproj.CoreCompileInputs.cache
+C:\Users\pc1\source\repos\StacksAndQueuesExercise\E09.SimpleTextEditor\obj\Debug\net5.0\E09.SimpleTextEditor.dll
+C:\Users\pc1\source\repos\StacksAndQueuesExercise\E09.SimpleTextEditor\obj\Debug\net5.0\refint\E09.SimpleTextEditor.dll
+C:\Users\pc1\source\repos\StacksAndQueuesExercise\E09.SimpleTextEditor\obj\Debug\net5.0\E09.SimpleTextEditor.pdb
+C:\Users\pc1\source\repos\StacksAndQueuesExercise\E09.SimpleTextEditor\obj\Debug\net5.0\E09.SimpleTextEditor.genruntimeconfig.cache
+C:\Users\pc1\source\repos\StacksAndQueuesExercise\E09.SimpleTextEditor\obj\Debug\net5.0\ref\E09.SimpleTextEditor.dll
