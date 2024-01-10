@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "E010.Crossroads/1.0.0": {
+        "runtime": {
+          "E010.Crossroads.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "E010.Crossroads/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
