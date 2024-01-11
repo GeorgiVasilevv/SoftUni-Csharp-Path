@@ -1,0 +1,16 @@
+C:\Users\pc1\source\repos\StacksAndQueuesExercise\E011.KeyRevolver\bin\Debug\net5.0\E011.KeyRevolver.exe
+C:\Users\pc1\source\repos\StacksAndQueuesExercise\E011.KeyRevolver\bin\Debug\net5.0\E011.KeyRevolver.deps.json
+C:\Users\pc1\source\repos\StacksAndQueuesExercise\E011.KeyRevolver\bin\Debug\net5.0\E011.KeyRevolver.runtimeconfig.json
+C:\Users\pc1\source\repos\StacksAndQueuesExercise\E011.KeyRevolver\bin\Debug\net5.0\E011.KeyRevolver.runtimeconfig.dev.json
+C:\Users\pc1\source\repos\StacksAndQueuesExercise\E011.KeyRevolver\bin\Debug\net5.0\E011.KeyRevolver.dll
+C:\Users\pc1\source\repos\StacksAndQueuesExercise\E011.KeyRevolver\bin\Debug\net5.0\E011.KeyRevolver.pdb
+C:\Users\pc1\source\repos\StacksAndQueuesExercise\E011.KeyRevolver\obj\Debug\net5.0\E011.KeyRevolver.csproj.AssemblyReference.cache
+C:\Users\pc1\source\repos\StacksAndQueuesExercise\E011.KeyRevolver\obj\Debug\net5.0\E011.KeyRevolver.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\pc1\source\repos\StacksAndQueuesExercise\E011.KeyRevolver\obj\Debug\net5.0\E011.KeyRevolver.AssemblyInfoInputs.cache
+C:\Users\pc1\source\repos\StacksAndQueuesExercise\E011.KeyRevolver\obj\Debug\net5.0\E011.KeyRevolver.AssemblyInfo.cs
+C:\Users\pc1\source\repos\StacksAndQueuesExercise\E011.KeyRevolver\obj\Debug\net5.0\E011.KeyRevolver.csproj.CoreCompileInputs.cache
+C:\Users\pc1\source\repos\StacksAndQueuesExercise\E011.KeyRevolver\obj\Debug\net5.0\E011.KeyRevolver.dll
+C:\Users\pc1\source\repos\StacksAndQueuesExercise\E011.KeyRevolver\obj\Debug\net5.0\refint\E011.KeyRevolver.dll
+C:\Users\pc1\source\repos\StacksAndQueuesExercise\E011.KeyRevolver\obj\Debug\net5.0\E011.KeyRevolver.pdb
+C:\Users\pc1\source\repos\StacksAndQueuesExercise\E011.KeyRevolver\obj\Debug\net5.0\E011.KeyRevolver.genruntimeconfig.cache
+C:\Users\pc1\source\repos\StacksAndQueuesExercise\E011.KeyRevolver\obj\Debug\net5.0\ref\E011.KeyRevolver.dll
