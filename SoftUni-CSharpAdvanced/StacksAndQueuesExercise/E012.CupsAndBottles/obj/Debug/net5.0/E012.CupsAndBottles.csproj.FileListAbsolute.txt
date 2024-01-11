@@ -1,0 +1,16 @@
+C:\Users\pc1\source\repos\StacksAndQueuesExercise\E012.CupsAndBottles\bin\Debug\net5.0\E012.CupsAndBottles.exe
+C:\Users\pc1\source\repos\StacksAndQueuesExercise\E012.CupsAndBottles\bin\Debug\net5.0\E012.CupsAndBottles.deps.json
+C:\Users\pc1\source\repos\StacksAndQueuesExercise\E012.CupsAndBottles\bin\Debug\net5.0\E012.CupsAndBottles.runtimeconfig.json
+C:\Users\pc1\source\repos\StacksAndQueuesExercise\E012.CupsAndBottles\bin\Debug\net5.0\E012.CupsAndBottles.runtimeconfig.dev.json
+C:\Users\pc1\source\repos\StacksAndQueuesExercise\E012.CupsAndBottles\bin\Debug\net5.0\E012.CupsAndBottles.dll
+C:\Users\pc1\source\repos\StacksAndQueuesExercise\E012.CupsAndBottles\bin\Debug\net5.0\E012.CupsAndBottles.pdb
+C:\Users\pc1\source\repos\StacksAndQueuesExercise\E012.CupsAndBottles\obj\Debug\net5.0\E012.CupsAndBottles.csproj.AssemblyReference.cache
+C:\Users\pc1\source\repos\StacksAndQueuesExercise\E012.CupsAndBottles\obj\Debug\net5.0\E012.CupsAndBottles.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\pc1\source\repos\StacksAndQueuesExercise\E012.CupsAndBottles\obj\Debug\net5.0\E012.CupsAndBottles.AssemblyInfoInputs.cache
+C:\Users\pc1\source\repos\StacksAndQueuesExercise\E012.CupsAndBottles\obj\Debug\net5.0\E012.CupsAndBottles.AssemblyInfo.cs
+C:\Users\pc1\source\repos\StacksAndQueuesExercise\E012.CupsAndBottles\obj\Debug\net5.0\E012.CupsAndBottles.csproj.CoreCompileInputs.cache
+C:\Users\pc1\source\repos\StacksAndQueuesExercise\E012.CupsAndBottles\obj\Debug\net5.0\E012.CupsAndBottles.dll
+C:\Users\pc1\source\repos\StacksAndQueuesExercise\E012.CupsAndBottles\obj\Debug\net5.0\refint\E012.CupsAndBottles.dll
+C:\Users\pc1\source\repos\StacksAndQueuesExercise\E012.CupsAndBottles\obj\Debug\net5.0\E012.CupsAndBottles.pdb
+C:\Users\pc1\source\repos\StacksAndQueuesExercise\E012.CupsAndBottles\obj\Debug\net5.0\E012.CupsAndBottles.genruntimeconfig.cache
+C:\Users\pc1\source\repos\StacksAndQueuesExercise\E012.CupsAndBottles\obj\Debug\net5.0\ref\E012.CupsAndBottles.dll

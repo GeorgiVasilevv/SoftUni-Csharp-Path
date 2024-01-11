@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "E012.CupsAndBottles/1.0.0": {
+        "runtime": {
+          "E012.CupsAndBottles.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "E012.CupsAndBottles/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
