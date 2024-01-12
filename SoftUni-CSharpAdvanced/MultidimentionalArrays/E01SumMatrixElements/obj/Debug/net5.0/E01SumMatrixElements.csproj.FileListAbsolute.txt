@@ -1,0 +1,16 @@
+C:\Users\pc1\source\repos\MultidimentionalArrays\E01SumMatrixElements\bin\Debug\net5.0\E01SumMatrixElements.exe
+C:\Users\pc1\source\repos\MultidimentionalArrays\E01SumMatrixElements\bin\Debug\net5.0\E01SumMatrixElements.deps.json
+C:\Users\pc1\source\repos\MultidimentionalArrays\E01SumMatrixElements\bin\Debug\net5.0\E01SumMatrixElements.runtimeconfig.json
+C:\Users\pc1\source\repos\MultidimentionalArrays\E01SumMatrixElements\bin\Debug\net5.0\E01SumMatrixElements.runtimeconfig.dev.json
+C:\Users\pc1\source\repos\MultidimentionalArrays\E01SumMatrixElements\bin\Debug\net5.0\E01SumMatrixElements.dll
+C:\Users\pc1\source\repos\MultidimentionalArrays\E01SumMatrixElements\bin\Debug\net5.0\E01SumMatrixElements.pdb
+C:\Users\pc1\source\repos\MultidimentionalArrays\E01SumMatrixElements\obj\Debug\net5.0\E01SumMatrixElements.csproj.AssemblyReference.cache
+C:\Users\pc1\source\repos\MultidimentionalArrays\E01SumMatrixElements\obj\Debug\net5.0\E01SumMatrixElements.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\pc1\source\repos\MultidimentionalArrays\E01SumMatrixElements\obj\Debug\net5.0\E01SumMatrixElements.AssemblyInfoInputs.cache
+C:\Users\pc1\source\repos\MultidimentionalArrays\E01SumMatrixElements\obj\Debug\net5.0\E01SumMatrixElements.AssemblyInfo.cs
+C:\Users\pc1\source\repos\MultidimentionalArrays\E01SumMatrixElements\obj\Debug\net5.0\E01SumMatrixElements.csproj.CoreCompileInputs.cache
+C:\Users\pc1\source\repos\MultidimentionalArrays\E01SumMatrixElements\obj\Debug\net5.0\E01SumMatrixElements.dll
+C:\Users\pc1\source\repos\MultidimentionalArrays\E01SumMatrixElements\obj\Debug\net5.0\refint\E01SumMatrixElements.dll
+C:\Users\pc1\source\repos\MultidimentionalArrays\E01SumMatrixElements\obj\Debug\net5.0\E01SumMatrixElements.pdb
+C:\Users\pc1\source\repos\MultidimentionalArrays\E01SumMatrixElements\obj\Debug\net5.0\E01SumMatrixElements.genruntimeconfig.cache
+C:\Users\pc1\source\repos\MultidimentionalArrays\E01SumMatrixElements\obj\Debug\net5.0\ref\E01SumMatrixElements.dll
