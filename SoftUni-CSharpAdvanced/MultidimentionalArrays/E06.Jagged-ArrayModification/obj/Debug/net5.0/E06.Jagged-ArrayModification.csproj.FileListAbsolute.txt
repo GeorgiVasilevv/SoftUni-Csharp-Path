@@ -1,0 +1,16 @@
+C:\Users\pc1\source\repos\MultidimentionalArrays\E06.Jagged-ArrayModification\bin\Debug\net5.0\E06.Jagged-ArrayModification.exe
+C:\Users\pc1\source\repos\MultidimentionalArrays\E06.Jagged-ArrayModification\bin\Debug\net5.0\E06.Jagged-ArrayModification.deps.json
+C:\Users\pc1\source\repos\MultidimentionalArrays\E06.Jagged-ArrayModification\bin\Debug\net5.0\E06.Jagged-ArrayModification.runtimeconfig.json
+C:\Users\pc1\source\repos\MultidimentionalArrays\E06.Jagged-ArrayModification\bin\Debug\net5.0\E06.Jagged-ArrayModification.runtimeconfig.dev.json
+C:\Users\pc1\source\repos\MultidimentionalArrays\E06.Jagged-ArrayModification\bin\Debug\net5.0\E06.Jagged-ArrayModification.dll
+C:\Users\pc1\source\repos\MultidimentionalArrays\E06.Jagged-ArrayModification\bin\Debug\net5.0\E06.Jagged-ArrayModification.pdb
+C:\Users\pc1\source\repos\MultidimentionalArrays\E06.Jagged-ArrayModification\obj\Debug\net5.0\E06.Jagged-ArrayModification.csproj.AssemblyReference.cache
+C:\Users\pc1\source\repos\MultidimentionalArrays\E06.Jagged-ArrayModification\obj\Debug\net5.0\E06.Jagged-ArrayModification.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\pc1\source\repos\MultidimentionalArrays\E06.Jagged-ArrayModification\obj\Debug\net5.0\E06.Jagged-ArrayModification.AssemblyInfoInputs.cache
+C:\Users\pc1\source\repos\MultidimentionalArrays\E06.Jagged-ArrayModification\obj\Debug\net5.0\E06.Jagged-ArrayModification.AssemblyInfo.cs
+C:\Users\pc1\source\repos\MultidimentionalArrays\E06.Jagged-ArrayModification\obj\Debug\net5.0\E06.Jagged-ArrayModification.csproj.CoreCompileInputs.cache
+C:\Users\pc1\source\repos\MultidimentionalArrays\E06.Jagged-ArrayModification\obj\Debug\net5.0\E06.Jagged-ArrayModification.dll
+C:\Users\pc1\source\repos\MultidimentionalArrays\E06.Jagged-ArrayModification\obj\Debug\net5.0\refint\E06.Jagged-ArrayModification.dll
+C:\Users\pc1\source\repos\MultidimentionalArrays\E06.Jagged-ArrayModification\obj\Debug\net5.0\E06.Jagged-ArrayModification.pdb
+C:\Users\pc1\source\repos\MultidimentionalArrays\E06.Jagged-ArrayModification\obj\Debug\net5.0\E06.Jagged-ArrayModification.genruntimeconfig.cache
+C:\Users\pc1\source\repos\MultidimentionalArrays\E06.Jagged-ArrayModification\obj\Debug\net5.0\ref\E06.Jagged-ArrayModification.dll
