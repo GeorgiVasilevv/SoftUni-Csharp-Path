@@ -1,0 +1,16 @@
+C:\Users\pc1\source\repos\MultidimentionalArrays\E05.SquareWithMaximumSum\bin\Debug\net5.0\E05.SquareWithMaximumSum.exe
+C:\Users\pc1\source\repos\MultidimentionalArrays\E05.SquareWithMaximumSum\bin\Debug\net5.0\E05.SquareWithMaximumSum.deps.json
+C:\Users\pc1\source\repos\MultidimentionalArrays\E05.SquareWithMaximumSum\bin\Debug\net5.0\E05.SquareWithMaximumSum.runtimeconfig.json
+C:\Users\pc1\source\repos\MultidimentionalArrays\E05.SquareWithMaximumSum\bin\Debug\net5.0\E05.SquareWithMaximumSum.runtimeconfig.dev.json
+C:\Users\pc1\source\repos\MultidimentionalArrays\E05.SquareWithMaximumSum\bin\Debug\net5.0\E05.SquareWithMaximumSum.dll
+C:\Users\pc1\source\repos\MultidimentionalArrays\E05.SquareWithMaximumSum\bin\Debug\net5.0\E05.SquareWithMaximumSum.pdb
+C:\Users\pc1\source\repos\MultidimentionalArrays\E05.SquareWithMaximumSum\obj\Debug\net5.0\E05.SquareWithMaximumSum.csproj.AssemblyReference.cache
+C:\Users\pc1\source\repos\MultidimentionalArrays\E05.SquareWithMaximumSum\obj\Debug\net5.0\E05.SquareWithMaximumSum.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\pc1\source\repos\MultidimentionalArrays\E05.SquareWithMaximumSum\obj\Debug\net5.0\E05.SquareWithMaximumSum.AssemblyInfoInputs.cache
+C:\Users\pc1\source\repos\MultidimentionalArrays\E05.SquareWithMaximumSum\obj\Debug\net5.0\E05.SquareWithMaximumSum.AssemblyInfo.cs
+C:\Users\pc1\source\repos\MultidimentionalArrays\E05.SquareWithMaximumSum\obj\Debug\net5.0\E05.SquareWithMaximumSum.csproj.CoreCompileInputs.cache
+C:\Users\pc1\source\repos\MultidimentionalArrays\E05.SquareWithMaximumSum\obj\Debug\net5.0\E05.SquareWithMaximumSum.dll
+C:\Users\pc1\source\repos\MultidimentionalArrays\E05.SquareWithMaximumSum\obj\Debug\net5.0\refint\E05.SquareWithMaximumSum.dll
+C:\Users\pc1\source\repos\MultidimentionalArrays\E05.SquareWithMaximumSum\obj\Debug\net5.0\E05.SquareWithMaximumSum.pdb
+C:\Users\pc1\source\repos\MultidimentionalArrays\E05.SquareWithMaximumSum\obj\Debug\net5.0\E05.SquareWithMaximumSum.genruntimeconfig.cache
+C:\Users\pc1\source\repos\MultidimentionalArrays\E05.SquareWithMaximumSum\obj\Debug\net5.0\ref\E05.SquareWithMaximumSum.dll
