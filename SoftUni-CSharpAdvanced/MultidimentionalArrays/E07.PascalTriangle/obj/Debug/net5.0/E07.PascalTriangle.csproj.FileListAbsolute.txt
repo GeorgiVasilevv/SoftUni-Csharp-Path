@@ -1,0 +1,16 @@
+C:\Users\pc1\source\repos\MultidimentionalArrays\E07.PascalTriangle\bin\Debug\net5.0\E07.PascalTriangle.exe
+C:\Users\pc1\source\repos\MultidimentionalArrays\E07.PascalTriangle\bin\Debug\net5.0\E07.PascalTriangle.deps.json
+C:\Users\pc1\source\repos\MultidimentionalArrays\E07.PascalTriangle\bin\Debug\net5.0\E07.PascalTriangle.runtimeconfig.json
+C:\Users\pc1\source\repos\MultidimentionalArrays\E07.PascalTriangle\bin\Debug\net5.0\E07.PascalTriangle.runtimeconfig.dev.json
+C:\Users\pc1\source\repos\MultidimentionalArrays\E07.PascalTriangle\bin\Debug\net5.0\E07.PascalTriangle.dll
+C:\Users\pc1\source\repos\MultidimentionalArrays\E07.PascalTriangle\bin\Debug\net5.0\E07.PascalTriangle.pdb
+C:\Users\pc1\source\repos\MultidimentionalArrays\E07.PascalTriangle\obj\Debug\net5.0\E07.PascalTriangle.csproj.AssemblyReference.cache
+C:\Users\pc1\source\repos\MultidimentionalArrays\E07.PascalTriangle\obj\Debug\net5.0\E07.PascalTriangle.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\pc1\source\repos\MultidimentionalArrays\E07.PascalTriangle\obj\Debug\net5.0\E07.PascalTriangle.AssemblyInfoInputs.cache
+C:\Users\pc1\source\repos\MultidimentionalArrays\E07.PascalTriangle\obj\Debug\net5.0\E07.PascalTriangle.AssemblyInfo.cs
+C:\Users\pc1\source\repos\MultidimentionalArrays\E07.PascalTriangle\obj\Debug\net5.0\E07.PascalTriangle.csproj.CoreCompileInputs.cache
+C:\Users\pc1\source\repos\MultidimentionalArrays\E07.PascalTriangle\obj\Debug\net5.0\E07.PascalTriangle.dll
+C:\Users\pc1\source\repos\MultidimentionalArrays\E07.PascalTriangle\obj\Debug\net5.0\refint\E07.PascalTriangle.dll
+C:\Users\pc1\source\repos\MultidimentionalArrays\E07.PascalTriangle\obj\Debug\net5.0\E07.PascalTriangle.pdb
+C:\Users\pc1\source\repos\MultidimentionalArrays\E07.PascalTriangle\obj\Debug\net5.0\E07.PascalTriangle.genruntimeconfig.cache
+C:\Users\pc1\source\repos\MultidimentionalArrays\E07.PascalTriangle\obj\Debug\net5.0\ref\E07.PascalTriangle.dll
