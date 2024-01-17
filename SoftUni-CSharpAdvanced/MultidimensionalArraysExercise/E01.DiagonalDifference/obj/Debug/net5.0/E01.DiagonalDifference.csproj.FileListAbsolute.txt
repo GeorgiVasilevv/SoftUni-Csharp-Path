@@ -1,0 +1,16 @@
+C:\Users\pc1\source\repos\MultidimensionalArraysExercise\E01.DiagonalDifference\bin\Debug\net5.0\E01.DiagonalDifference.exe
+C:\Users\pc1\source\repos\MultidimensionalArraysExercise\E01.DiagonalDifference\bin\Debug\net5.0\E01.DiagonalDifference.deps.json
+C:\Users\pc1\source\repos\MultidimensionalArraysExercise\E01.DiagonalDifference\bin\Debug\net5.0\E01.DiagonalDifference.runtimeconfig.json
+C:\Users\pc1\source\repos\MultidimensionalArraysExercise\E01.DiagonalDifference\bin\Debug\net5.0\E01.DiagonalDifference.runtimeconfig.dev.json
+C:\Users\pc1\source\repos\MultidimensionalArraysExercise\E01.DiagonalDifference\bin\Debug\net5.0\E01.DiagonalDifference.dll
+C:\Users\pc1\source\repos\MultidimensionalArraysExercise\E01.DiagonalDifference\bin\Debug\net5.0\E01.DiagonalDifference.pdb
+C:\Users\pc1\source\repos\MultidimensionalArraysExercise\E01.DiagonalDifference\obj\Debug\net5.0\E01.DiagonalDifference.csproj.AssemblyReference.cache
+C:\Users\pc1\source\repos\MultidimensionalArraysExercise\E01.DiagonalDifference\obj\Debug\net5.0\E01.DiagonalDifference.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\pc1\source\repos\MultidimensionalArraysExercise\E01.DiagonalDifference\obj\Debug\net5.0\E01.DiagonalDifference.AssemblyInfoInputs.cache
+C:\Users\pc1\source\repos\MultidimensionalArraysExercise\E01.DiagonalDifference\obj\Debug\net5.0\E01.DiagonalDifference.AssemblyInfo.cs
+C:\Users\pc1\source\repos\MultidimensionalArraysExercise\E01.DiagonalDifference\obj\Debug\net5.0\E01.DiagonalDifference.csproj.CoreCompileInputs.cache
+C:\Users\pc1\source\repos\MultidimensionalArraysExercise\E01.DiagonalDifference\obj\Debug\net5.0\E01.DiagonalDifference.dll
+C:\Users\pc1\source\repos\MultidimensionalArraysExercise\E01.DiagonalDifference\obj\Debug\net5.0\refint\E01.DiagonalDifference.dll
+C:\Users\pc1\source\repos\MultidimensionalArraysExercise\E01.DiagonalDifference\obj\Debug\net5.0\E01.DiagonalDifference.pdb
+C:\Users\pc1\source\repos\MultidimensionalArraysExercise\E01.DiagonalDifference\obj\Debug\net5.0\E01.DiagonalDifference.genruntimeconfig.cache
+C:\Users\pc1\source\repos\MultidimensionalArraysExercise\E01.DiagonalDifference\obj\Debug\net5.0\ref\E01.DiagonalDifference.dll
