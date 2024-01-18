@@ -1,0 +1,16 @@
+C:\Users\pc1\source\repos\MultidimensionalArraysExercise\E04.MatrixShuffling\bin\Debug\net5.0\E04.MatrixShuffling.exe
+C:\Users\pc1\source\repos\MultidimensionalArraysExercise\E04.MatrixShuffling\bin\Debug\net5.0\E04.MatrixShuffling.deps.json
+C:\Users\pc1\source\repos\MultidimensionalArraysExercise\E04.MatrixShuffling\bin\Debug\net5.0\E04.MatrixShuffling.runtimeconfig.json
+C:\Users\pc1\source\repos\MultidimensionalArraysExercise\E04.MatrixShuffling\bin\Debug\net5.0\E04.MatrixShuffling.runtimeconfig.dev.json
+C:\Users\pc1\source\repos\MultidimensionalArraysExercise\E04.MatrixShuffling\bin\Debug\net5.0\E04.MatrixShuffling.dll
+C:\Users\pc1\source\repos\MultidimensionalArraysExercise\E04.MatrixShuffling\bin\Debug\net5.0\E04.MatrixShuffling.pdb
+C:\Users\pc1\source\repos\MultidimensionalArraysExercise\E04.MatrixShuffling\obj\Debug\net5.0\E04.MatrixShuffling.csproj.AssemblyReference.cache
+C:\Users\pc1\source\repos\MultidimensionalArraysExercise\E04.MatrixShuffling\obj\Debug\net5.0\E04.MatrixShuffling.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\pc1\source\repos\MultidimensionalArraysExercise\E04.MatrixShuffling\obj\Debug\net5.0\E04.MatrixShuffling.AssemblyInfoInputs.cache
+C:\Users\pc1\source\repos\MultidimensionalArraysExercise\E04.MatrixShuffling\obj\Debug\net5.0\E04.MatrixShuffling.AssemblyInfo.cs
+C:\Users\pc1\source\repos\MultidimensionalArraysExercise\E04.MatrixShuffling\obj\Debug\net5.0\E04.MatrixShuffling.csproj.CoreCompileInputs.cache
+C:\Users\pc1\source\repos\MultidimensionalArraysExercise\E04.MatrixShuffling\obj\Debug\net5.0\E04.MatrixShuffling.dll
+C:\Users\pc1\source\repos\MultidimensionalArraysExercise\E04.MatrixShuffling\obj\Debug\net5.0\refint\E04.MatrixShuffling.dll
+C:\Users\pc1\source\repos\MultidimensionalArraysExercise\E04.MatrixShuffling\obj\Debug\net5.0\E04.MatrixShuffling.pdb
+C:\Users\pc1\source\repos\MultidimensionalArraysExercise\E04.MatrixShuffling\obj\Debug\net5.0\E04.MatrixShuffling.genruntimeconfig.cache
+C:\Users\pc1\source\repos\MultidimensionalArraysExercise\E04.MatrixShuffling\obj\Debug\net5.0\ref\E04.MatrixShuffling.dll
