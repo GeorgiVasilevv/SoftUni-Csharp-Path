@@ -1,0 +1,16 @@
+C:\Users\pc1\source\repos\MultidimensionalArraysExercise\E05.SnakeMoves\bin\Debug\net5.0\E05.SnakeMoves.exe
+C:\Users\pc1\source\repos\MultidimensionalArraysExercise\E05.SnakeMoves\bin\Debug\net5.0\E05.SnakeMoves.deps.json
+C:\Users\pc1\source\repos\MultidimensionalArraysExercise\E05.SnakeMoves\bin\Debug\net5.0\E05.SnakeMoves.runtimeconfig.json
+C:\Users\pc1\source\repos\MultidimensionalArraysExercise\E05.SnakeMoves\bin\Debug\net5.0\E05.SnakeMoves.runtimeconfig.dev.json
+C:\Users\pc1\source\repos\MultidimensionalArraysExercise\E05.SnakeMoves\bin\Debug\net5.0\E05.SnakeMoves.dll
+C:\Users\pc1\source\repos\MultidimensionalArraysExercise\E05.SnakeMoves\bin\Debug\net5.0\E05.SnakeMoves.pdb
+C:\Users\pc1\source\repos\MultidimensionalArraysExercise\E05.SnakeMoves\obj\Debug\net5.0\E05.SnakeMoves.csproj.AssemblyReference.cache
+C:\Users\pc1\source\repos\MultidimensionalArraysExercise\E05.SnakeMoves\obj\Debug\net5.0\E05.SnakeMoves.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\pc1\source\repos\MultidimensionalArraysExercise\E05.SnakeMoves\obj\Debug\net5.0\E05.SnakeMoves.AssemblyInfoInputs.cache
+C:\Users\pc1\source\repos\MultidimensionalArraysExercise\E05.SnakeMoves\obj\Debug\net5.0\E05.SnakeMoves.AssemblyInfo.cs
+C:\Users\pc1\source\repos\MultidimensionalArraysExercise\E05.SnakeMoves\obj\Debug\net5.0\E05.SnakeMoves.csproj.CoreCompileInputs.cache
+C:\Users\pc1\source\repos\MultidimensionalArraysExercise\E05.SnakeMoves\obj\Debug\net5.0\E05.SnakeMoves.dll
+C:\Users\pc1\source\repos\MultidimensionalArraysExercise\E05.SnakeMoves\obj\Debug\net5.0\refint\E05.SnakeMoves.dll
+C:\Users\pc1\source\repos\MultidimensionalArraysExercise\E05.SnakeMoves\obj\Debug\net5.0\E05.SnakeMoves.pdb
+C:\Users\pc1\source\repos\MultidimensionalArraysExercise\E05.SnakeMoves\obj\Debug\net5.0\E05.SnakeMoves.genruntimeconfig.cache
+C:\Users\pc1\source\repos\MultidimensionalArraysExercise\E05.SnakeMoves\obj\Debug\net5.0\ref\E05.SnakeMoves.dll

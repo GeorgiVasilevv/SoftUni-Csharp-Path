@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "E05.SnakeMoves/1.0.0": {
+        "runtime": {
+          "E05.SnakeMoves.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "E05.SnakeMoves/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
