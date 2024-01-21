@@ -1,0 +1,16 @@
+C:\Users\pc1\source\repos\MultidimensionalArraysExercise\E06.JaggedArrayManipulator\bin\Debug\net5.0\E06.JaggedArrayManipulator.exe
+C:\Users\pc1\source\repos\MultidimensionalArraysExercise\E06.JaggedArrayManipulator\bin\Debug\net5.0\E06.JaggedArrayManipulator.deps.json
+C:\Users\pc1\source\repos\MultidimensionalArraysExercise\E06.JaggedArrayManipulator\bin\Debug\net5.0\E06.JaggedArrayManipulator.runtimeconfig.json
+C:\Users\pc1\source\repos\MultidimensionalArraysExercise\E06.JaggedArrayManipulator\bin\Debug\net5.0\E06.JaggedArrayManipulator.runtimeconfig.dev.json
+C:\Users\pc1\source\repos\MultidimensionalArraysExercise\E06.JaggedArrayManipulator\bin\Debug\net5.0\E06.JaggedArrayManipulator.dll
+C:\Users\pc1\source\repos\MultidimensionalArraysExercise\E06.JaggedArrayManipulator\bin\Debug\net5.0\E06.JaggedArrayManipulator.pdb
+C:\Users\pc1\source\repos\MultidimensionalArraysExercise\E06.JaggedArrayManipulator\obj\Debug\net5.0\E06.JaggedArrayManipulator.csproj.AssemblyReference.cache
+C:\Users\pc1\source\repos\MultidimensionalArraysExercise\E06.JaggedArrayManipulator\obj\Debug\net5.0\E06.JaggedArrayManipulator.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\pc1\source\repos\MultidimensionalArraysExercise\E06.JaggedArrayManipulator\obj\Debug\net5.0\E06.JaggedArrayManipulator.AssemblyInfoInputs.cache
+C:\Users\pc1\source\repos\MultidimensionalArraysExercise\E06.JaggedArrayManipulator\obj\Debug\net5.0\E06.JaggedArrayManipulator.AssemblyInfo.cs
+C:\Users\pc1\source\repos\MultidimensionalArraysExercise\E06.JaggedArrayManipulator\obj\Debug\net5.0\E06.JaggedArrayManipulator.csproj.CoreCompileInputs.cache
+C:\Users\pc1\source\repos\MultidimensionalArraysExercise\E06.JaggedArrayManipulator\obj\Debug\net5.0\E06.JaggedArrayManipulator.dll
+C:\Users\pc1\source\repos\MultidimensionalArraysExercise\E06.JaggedArrayManipulator\obj\Debug\net5.0\refint\E06.JaggedArrayManipulator.dll
+C:\Users\pc1\source\repos\MultidimensionalArraysExercise\E06.JaggedArrayManipulator\obj\Debug\net5.0\E06.JaggedArrayManipulator.pdb
+C:\Users\pc1\source\repos\MultidimensionalArraysExercise\E06.JaggedArrayManipulator\obj\Debug\net5.0\E06.JaggedArrayManipulator.genruntimeconfig.cache
+C:\Users\pc1\source\repos\MultidimensionalArraysExercise\E06.JaggedArrayManipulator\obj\Debug\net5.0\ref\E06.JaggedArrayManipulator.dll
