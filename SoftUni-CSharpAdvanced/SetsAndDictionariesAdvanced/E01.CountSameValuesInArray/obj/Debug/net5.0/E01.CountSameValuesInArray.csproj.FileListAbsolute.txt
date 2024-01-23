@@ -1,0 +1,16 @@
+C:\Users\pc1\source\repos\SetsAndDictionariesAdvanced\E01.CountSameValuesInArray\bin\Debug\net5.0\E01.CountSameValuesInArray.exe
+C:\Users\pc1\source\repos\SetsAndDictionariesAdvanced\E01.CountSameValuesInArray\bin\Debug\net5.0\E01.CountSameValuesInArray.deps.json
+C:\Users\pc1\source\repos\SetsAndDictionariesAdvanced\E01.CountSameValuesInArray\bin\Debug\net5.0\E01.CountSameValuesInArray.runtimeconfig.json
+C:\Users\pc1\source\repos\SetsAndDictionariesAdvanced\E01.CountSameValuesInArray\bin\Debug\net5.0\E01.CountSameValuesInArray.runtimeconfig.dev.json
+C:\Users\pc1\source\repos\SetsAndDictionariesAdvanced\E01.CountSameValuesInArray\bin\Debug\net5.0\E01.CountSameValuesInArray.dll
+C:\Users\pc1\source\repos\SetsAndDictionariesAdvanced\E01.CountSameValuesInArray\bin\Debug\net5.0\E01.CountSameValuesInArray.pdb
+C:\Users\pc1\source\repos\SetsAndDictionariesAdvanced\E01.CountSameValuesInArray\obj\Debug\net5.0\E01.CountSameValuesInArray.csproj.AssemblyReference.cache
+C:\Users\pc1\source\repos\SetsAndDictionariesAdvanced\E01.CountSameValuesInArray\obj\Debug\net5.0\E01.CountSameValuesInArray.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\pc1\source\repos\SetsAndDictionariesAdvanced\E01.CountSameValuesInArray\obj\Debug\net5.0\E01.CountSameValuesInArray.AssemblyInfoInputs.cache
+C:\Users\pc1\source\repos\SetsAndDictionariesAdvanced\E01.CountSameValuesInArray\obj\Debug\net5.0\E01.CountSameValuesInArray.AssemblyInfo.cs
+C:\Users\pc1\source\repos\SetsAndDictionariesAdvanced\E01.CountSameValuesInArray\obj\Debug\net5.0\E01.CountSameValuesInArray.csproj.CoreCompileInputs.cache
+C:\Users\pc1\source\repos\SetsAndDictionariesAdvanced\E01.CountSameValuesInArray\obj\Debug\net5.0\E01.CountSameValuesInArray.dll
+C:\Users\pc1\source\repos\SetsAndDictionariesAdvanced\E01.CountSameValuesInArray\obj\Debug\net5.0\refint\E01.CountSameValuesInArray.dll
+C:\Users\pc1\source\repos\SetsAndDictionariesAdvanced\E01.CountSameValuesInArray\obj\Debug\net5.0\E01.CountSameValuesInArray.pdb
+C:\Users\pc1\source\repos\SetsAndDictionariesAdvanced\E01.CountSameValuesInArray\obj\Debug\net5.0\E01.CountSameValuesInArray.genruntimeconfig.cache
+C:\Users\pc1\source\repos\SetsAndDictionariesAdvanced\E01.CountSameValuesInArray\obj\Debug\net5.0\ref\E01.CountSameValuesInArray.dll
