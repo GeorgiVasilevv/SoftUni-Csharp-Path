@@ -1,0 +1,16 @@
+C:\Users\pc1\source\repos\SetsAndDictionariesAdvanced\E04.ProductShop\bin\Debug\net5.0\E04.ProductShop.exe
+C:\Users\pc1\source\repos\SetsAndDictionariesAdvanced\E04.ProductShop\bin\Debug\net5.0\E04.ProductShop.deps.json
+C:\Users\pc1\source\repos\SetsAndDictionariesAdvanced\E04.ProductShop\bin\Debug\net5.0\E04.ProductShop.runtimeconfig.json
+C:\Users\pc1\source\repos\SetsAndDictionariesAdvanced\E04.ProductShop\bin\Debug\net5.0\E04.ProductShop.runtimeconfig.dev.json
+C:\Users\pc1\source\repos\SetsAndDictionariesAdvanced\E04.ProductShop\bin\Debug\net5.0\E04.ProductShop.dll
+C:\Users\pc1\source\repos\SetsAndDictionariesAdvanced\E04.ProductShop\bin\Debug\net5.0\E04.ProductShop.pdb
+C:\Users\pc1\source\repos\SetsAndDictionariesAdvanced\E04.ProductShop\obj\Debug\net5.0\E04.ProductShop.csproj.AssemblyReference.cache
+C:\Users\pc1\source\repos\SetsAndDictionariesAdvanced\E04.ProductShop\obj\Debug\net5.0\E04.ProductShop.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\pc1\source\repos\SetsAndDictionariesAdvanced\E04.ProductShop\obj\Debug\net5.0\E04.ProductShop.AssemblyInfoInputs.cache
+C:\Users\pc1\source\repos\SetsAndDictionariesAdvanced\E04.ProductShop\obj\Debug\net5.0\E04.ProductShop.AssemblyInfo.cs
+C:\Users\pc1\source\repos\SetsAndDictionariesAdvanced\E04.ProductShop\obj\Debug\net5.0\E04.ProductShop.csproj.CoreCompileInputs.cache
+C:\Users\pc1\source\repos\SetsAndDictionariesAdvanced\E04.ProductShop\obj\Debug\net5.0\E04.ProductShop.dll
+C:\Users\pc1\source\repos\SetsAndDictionariesAdvanced\E04.ProductShop\obj\Debug\net5.0\refint\E04.ProductShop.dll
+C:\Users\pc1\source\repos\SetsAndDictionariesAdvanced\E04.ProductShop\obj\Debug\net5.0\E04.ProductShop.pdb
+C:\Users\pc1\source\repos\SetsAndDictionariesAdvanced\E04.ProductShop\obj\Debug\net5.0\E04.ProductShop.genruntimeconfig.cache
+C:\Users\pc1\source\repos\SetsAndDictionariesAdvanced\E04.ProductShop\obj\Debug\net5.0\ref\E04.ProductShop.dll
