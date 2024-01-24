@@ -1,0 +1,16 @@
+C:\Users\pc1\source\repos\SetsAndDictionariesAdvanced\E02.AverageStudentGrades\bin\Debug\net5.0\E02.AverageStudentGrades.exe
+C:\Users\pc1\source\repos\SetsAndDictionariesAdvanced\E02.AverageStudentGrades\bin\Debug\net5.0\E02.AverageStudentGrades.deps.json
+C:\Users\pc1\source\repos\SetsAndDictionariesAdvanced\E02.AverageStudentGrades\bin\Debug\net5.0\E02.AverageStudentGrades.runtimeconfig.json
+C:\Users\pc1\source\repos\SetsAndDictionariesAdvanced\E02.AverageStudentGrades\bin\Debug\net5.0\E02.AverageStudentGrades.runtimeconfig.dev.json
+C:\Users\pc1\source\repos\SetsAndDictionariesAdvanced\E02.AverageStudentGrades\bin\Debug\net5.0\E02.AverageStudentGrades.dll
+C:\Users\pc1\source\repos\SetsAndDictionariesAdvanced\E02.AverageStudentGrades\bin\Debug\net5.0\E02.AverageStudentGrades.pdb
+C:\Users\pc1\source\repos\SetsAndDictionariesAdvanced\E02.AverageStudentGrades\obj\Debug\net5.0\E02.AverageStudentGrades.csproj.AssemblyReference.cache
+C:\Users\pc1\source\repos\SetsAndDictionariesAdvanced\E02.AverageStudentGrades\obj\Debug\net5.0\E02.AverageStudentGrades.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\pc1\source\repos\SetsAndDictionariesAdvanced\E02.AverageStudentGrades\obj\Debug\net5.0\E02.AverageStudentGrades.AssemblyInfoInputs.cache
+C:\Users\pc1\source\repos\SetsAndDictionariesAdvanced\E02.AverageStudentGrades\obj\Debug\net5.0\E02.AverageStudentGrades.AssemblyInfo.cs
+C:\Users\pc1\source\repos\SetsAndDictionariesAdvanced\E02.AverageStudentGrades\obj\Debug\net5.0\E02.AverageStudentGrades.csproj.CoreCompileInputs.cache
+C:\Users\pc1\source\repos\SetsAndDictionariesAdvanced\E02.AverageStudentGrades\obj\Debug\net5.0\E02.AverageStudentGrades.dll
+C:\Users\pc1\source\repos\SetsAndDictionariesAdvanced\E02.AverageStudentGrades\obj\Debug\net5.0\refint\E02.AverageStudentGrades.dll
+C:\Users\pc1\source\repos\SetsAndDictionariesAdvanced\E02.AverageStudentGrades\obj\Debug\net5.0\E02.AverageStudentGrades.pdb
+C:\Users\pc1\source\repos\SetsAndDictionariesAdvanced\E02.AverageStudentGrades\obj\Debug\net5.0\E02.AverageStudentGrades.genruntimeconfig.cache
+C:\Users\pc1\source\repos\SetsAndDictionariesAdvanced\E02.AverageStudentGrades\obj\Debug\net5.0\ref\E02.AverageStudentGrades.dll

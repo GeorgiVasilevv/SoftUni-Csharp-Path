@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "E02.AverageStudentGrades/1.0.0": {
+        "runtime": {
+          "E02.AverageStudentGrades.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "E02.AverageStudentGrades/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
