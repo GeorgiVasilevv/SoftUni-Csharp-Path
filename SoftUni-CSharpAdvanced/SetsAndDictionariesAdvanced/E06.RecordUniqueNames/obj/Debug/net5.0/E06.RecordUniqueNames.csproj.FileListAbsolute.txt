@@ -1,0 +1,16 @@
+C:\Users\pc1\source\repos\SetsAndDictionariesAdvanced\E06.RecordUniqueNames\bin\Debug\net5.0\E06.RecordUniqueNames.exe
+C:\Users\pc1\source\repos\SetsAndDictionariesAdvanced\E06.RecordUniqueNames\bin\Debug\net5.0\E06.RecordUniqueNames.deps.json
+C:\Users\pc1\source\repos\SetsAndDictionariesAdvanced\E06.RecordUniqueNames\bin\Debug\net5.0\E06.RecordUniqueNames.runtimeconfig.json
+C:\Users\pc1\source\repos\SetsAndDictionariesAdvanced\E06.RecordUniqueNames\bin\Debug\net5.0\E06.RecordUniqueNames.runtimeconfig.dev.json
+C:\Users\pc1\source\repos\SetsAndDictionariesAdvanced\E06.RecordUniqueNames\bin\Debug\net5.0\E06.RecordUniqueNames.dll
+C:\Users\pc1\source\repos\SetsAndDictionariesAdvanced\E06.RecordUniqueNames\bin\Debug\net5.0\E06.RecordUniqueNames.pdb
+C:\Users\pc1\source\repos\SetsAndDictionariesAdvanced\E06.RecordUniqueNames\obj\Debug\net5.0\E06.RecordUniqueNames.csproj.AssemblyReference.cache
+C:\Users\pc1\source\repos\SetsAndDictionariesAdvanced\E06.RecordUniqueNames\obj\Debug\net5.0\E06.RecordUniqueNames.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\pc1\source\repos\SetsAndDictionariesAdvanced\E06.RecordUniqueNames\obj\Debug\net5.0\E06.RecordUniqueNames.AssemblyInfoInputs.cache
+C:\Users\pc1\source\repos\SetsAndDictionariesAdvanced\E06.RecordUniqueNames\obj\Debug\net5.0\E06.RecordUniqueNames.AssemblyInfo.cs
+C:\Users\pc1\source\repos\SetsAndDictionariesAdvanced\E06.RecordUniqueNames\obj\Debug\net5.0\E06.RecordUniqueNames.csproj.CoreCompileInputs.cache
+C:\Users\pc1\source\repos\SetsAndDictionariesAdvanced\E06.RecordUniqueNames\obj\Debug\net5.0\E06.RecordUniqueNames.dll
+C:\Users\pc1\source\repos\SetsAndDictionariesAdvanced\E06.RecordUniqueNames\obj\Debug\net5.0\refint\E06.RecordUniqueNames.dll
+C:\Users\pc1\source\repos\SetsAndDictionariesAdvanced\E06.RecordUniqueNames\obj\Debug\net5.0\E06.RecordUniqueNames.pdb
+C:\Users\pc1\source\repos\SetsAndDictionariesAdvanced\E06.RecordUniqueNames\obj\Debug\net5.0\E06.RecordUniqueNames.genruntimeconfig.cache
+C:\Users\pc1\source\repos\SetsAndDictionariesAdvanced\E06.RecordUniqueNames\obj\Debug\net5.0\ref\E06.RecordUniqueNames.dll
