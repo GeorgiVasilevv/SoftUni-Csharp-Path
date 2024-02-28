@@ -1,0 +1,16 @@
+C:\Users\pc1\source\repos\SetsAndDictionariesAdvancedExercise\E01.UniqueUsernames\bin\Debug\net5.0\E01.UniqueUsernames.exe
+C:\Users\pc1\source\repos\SetsAndDictionariesAdvancedExercise\E01.UniqueUsernames\bin\Debug\net5.0\E01.UniqueUsernames.deps.json
+C:\Users\pc1\source\repos\SetsAndDictionariesAdvancedExercise\E01.UniqueUsernames\bin\Debug\net5.0\E01.UniqueUsernames.runtimeconfig.json
+C:\Users\pc1\source\repos\SetsAndDictionariesAdvancedExercise\E01.UniqueUsernames\bin\Debug\net5.0\E01.UniqueUsernames.runtimeconfig.dev.json
+C:\Users\pc1\source\repos\SetsAndDictionariesAdvancedExercise\E01.UniqueUsernames\bin\Debug\net5.0\E01.UniqueUsernames.dll
+C:\Users\pc1\source\repos\SetsAndDictionariesAdvancedExercise\E01.UniqueUsernames\bin\Debug\net5.0\E01.UniqueUsernames.pdb
+C:\Users\pc1\source\repos\SetsAndDictionariesAdvancedExercise\E01.UniqueUsernames\obj\Debug\net5.0\E01.UniqueUsernames.csproj.AssemblyReference.cache
+C:\Users\pc1\source\repos\SetsAndDictionariesAdvancedExercise\E01.UniqueUsernames\obj\Debug\net5.0\E01.UniqueUsernames.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\pc1\source\repos\SetsAndDictionariesAdvancedExercise\E01.UniqueUsernames\obj\Debug\net5.0\E01.UniqueUsernames.AssemblyInfoInputs.cache
+C:\Users\pc1\source\repos\SetsAndDictionariesAdvancedExercise\E01.UniqueUsernames\obj\Debug\net5.0\E01.UniqueUsernames.AssemblyInfo.cs
+C:\Users\pc1\source\repos\SetsAndDictionariesAdvancedExercise\E01.UniqueUsernames\obj\Debug\net5.0\E01.UniqueUsernames.csproj.CoreCompileInputs.cache
+C:\Users\pc1\source\repos\SetsAndDictionariesAdvancedExercise\E01.UniqueUsernames\obj\Debug\net5.0\E01.UniqueUsernames.dll
+C:\Users\pc1\source\repos\SetsAndDictionariesAdvancedExercise\E01.UniqueUsernames\obj\Debug\net5.0\refint\E01.UniqueUsernames.dll
+C:\Users\pc1\source\repos\SetsAndDictionariesAdvancedExercise\E01.UniqueUsernames\obj\Debug\net5.0\E01.UniqueUsernames.pdb
+C:\Users\pc1\source\repos\SetsAndDictionariesAdvancedExercise\E01.UniqueUsernames\obj\Debug\net5.0\E01.UniqueUsernames.genruntimeconfig.cache
+C:\Users\pc1\source\repos\SetsAndDictionariesAdvancedExercise\E01.UniqueUsernames\obj\Debug\net5.0\ref\E01.UniqueUsernames.dll
