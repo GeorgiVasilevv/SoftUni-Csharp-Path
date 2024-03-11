@@ -1,0 +1,16 @@
+C:\Users\pc1\source\repos\SetsAndDictionariesAdvancedExercise\E04.EvenTimes\bin\Debug\net5.0\E04.EvenTimes.exe
+C:\Users\pc1\source\repos\SetsAndDictionariesAdvancedExercise\E04.EvenTimes\bin\Debug\net5.0\E04.EvenTimes.deps.json
+C:\Users\pc1\source\repos\SetsAndDictionariesAdvancedExercise\E04.EvenTimes\bin\Debug\net5.0\E04.EvenTimes.runtimeconfig.json
+C:\Users\pc1\source\repos\SetsAndDictionariesAdvancedExercise\E04.EvenTimes\bin\Debug\net5.0\E04.EvenTimes.runtimeconfig.dev.json
+C:\Users\pc1\source\repos\SetsAndDictionariesAdvancedExercise\E04.EvenTimes\bin\Debug\net5.0\E04.EvenTimes.dll
+C:\Users\pc1\source\repos\SetsAndDictionariesAdvancedExercise\E04.EvenTimes\bin\Debug\net5.0\E04.EvenTimes.pdb
+C:\Users\pc1\source\repos\SetsAndDictionariesAdvancedExercise\E04.EvenTimes\obj\Debug\net5.0\E04.EvenTimes.csproj.AssemblyReference.cache
+C:\Users\pc1\source\repos\SetsAndDictionariesAdvancedExercise\E04.EvenTimes\obj\Debug\net5.0\E04.EvenTimes.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\pc1\source\repos\SetsAndDictionariesAdvancedExercise\E04.EvenTimes\obj\Debug\net5.0\E04.EvenTimes.AssemblyInfoInputs.cache
+C:\Users\pc1\source\repos\SetsAndDictionariesAdvancedExercise\E04.EvenTimes\obj\Debug\net5.0\E04.EvenTimes.AssemblyInfo.cs
+C:\Users\pc1\source\repos\SetsAndDictionariesAdvancedExercise\E04.EvenTimes\obj\Debug\net5.0\E04.EvenTimes.csproj.CoreCompileInputs.cache
+C:\Users\pc1\source\repos\SetsAndDictionariesAdvancedExercise\E04.EvenTimes\obj\Debug\net5.0\E04.EvenTimes.dll
+C:\Users\pc1\source\repos\SetsAndDictionariesAdvancedExercise\E04.EvenTimes\obj\Debug\net5.0\refint\E04.EvenTimes.dll
+C:\Users\pc1\source\repos\SetsAndDictionariesAdvancedExercise\E04.EvenTimes\obj\Debug\net5.0\E04.EvenTimes.pdb
+C:\Users\pc1\source\repos\SetsAndDictionariesAdvancedExercise\E04.EvenTimes\obj\Debug\net5.0\E04.EvenTimes.genruntimeconfig.cache
+C:\Users\pc1\source\repos\SetsAndDictionariesAdvancedExercise\E04.EvenTimes\obj\Debug\net5.0\ref\E04.EvenTimes.dll
