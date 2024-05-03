@@ -1,0 +1,16 @@
+C:\Users\pc1\source\repos\SetsAndDictionariesAdvancedExercise\E05.CountSymbols\bin\Debug\net5.0\E05.CountSymbols.exe
+C:\Users\pc1\source\repos\SetsAndDictionariesAdvancedExercise\E05.CountSymbols\bin\Debug\net5.0\E05.CountSymbols.deps.json
+C:\Users\pc1\source\repos\SetsAndDictionariesAdvancedExercise\E05.CountSymbols\bin\Debug\net5.0\E05.CountSymbols.runtimeconfig.json
+C:\Users\pc1\source\repos\SetsAndDictionariesAdvancedExercise\E05.CountSymbols\bin\Debug\net5.0\E05.CountSymbols.runtimeconfig.dev.json
+C:\Users\pc1\source\repos\SetsAndDictionariesAdvancedExercise\E05.CountSymbols\bin\Debug\net5.0\E05.CountSymbols.dll
+C:\Users\pc1\source\repos\SetsAndDictionariesAdvancedExercise\E05.CountSymbols\bin\Debug\net5.0\E05.CountSymbols.pdb
+C:\Users\pc1\source\repos\SetsAndDictionariesAdvancedExercise\E05.CountSymbols\obj\Debug\net5.0\E05.CountSymbols.csproj.AssemblyReference.cache
+C:\Users\pc1\source\repos\SetsAndDictionariesAdvancedExercise\E05.CountSymbols\obj\Debug\net5.0\E05.CountSymbols.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\pc1\source\repos\SetsAndDictionariesAdvancedExercise\E05.CountSymbols\obj\Debug\net5.0\E05.CountSymbols.AssemblyInfoInputs.cache
+C:\Users\pc1\source\repos\SetsAndDictionariesAdvancedExercise\E05.CountSymbols\obj\Debug\net5.0\E05.CountSymbols.AssemblyInfo.cs
+C:\Users\pc1\source\repos\SetsAndDictionariesAdvancedExercise\E05.CountSymbols\obj\Debug\net5.0\E05.CountSymbols.csproj.CoreCompileInputs.cache
+C:\Users\pc1\source\repos\SetsAndDictionariesAdvancedExercise\E05.CountSymbols\obj\Debug\net5.0\E05.CountSymbols.dll
+C:\Users\pc1\source\repos\SetsAndDictionariesAdvancedExercise\E05.CountSymbols\obj\Debug\net5.0\refint\E05.CountSymbols.dll
+C:\Users\pc1\source\repos\SetsAndDictionariesAdvancedExercise\E05.CountSymbols\obj\Debug\net5.0\E05.CountSymbols.pdb
+C:\Users\pc1\source\repos\SetsAndDictionariesAdvancedExercise\E05.CountSymbols\obj\Debug\net5.0\E05.CountSymbols.genruntimeconfig.cache
+C:\Users\pc1\source\repos\SetsAndDictionariesAdvancedExercise\E05.CountSymbols\obj\Debug\net5.0\ref\E05.CountSymbols.dll
