@@ -1,0 +1,16 @@
+C:\Users\pc1\source\repos\SetsAndDictionariesAdvancedExercise\E08.Ranking\bin\Debug\net5.0\E08.Ranking.exe
+C:\Users\pc1\source\repos\SetsAndDictionariesAdvancedExercise\E08.Ranking\bin\Debug\net5.0\E08.Ranking.deps.json
+C:\Users\pc1\source\repos\SetsAndDictionariesAdvancedExercise\E08.Ranking\bin\Debug\net5.0\E08.Ranking.runtimeconfig.json
+C:\Users\pc1\source\repos\SetsAndDictionariesAdvancedExercise\E08.Ranking\bin\Debug\net5.0\E08.Ranking.runtimeconfig.dev.json
+C:\Users\pc1\source\repos\SetsAndDictionariesAdvancedExercise\E08.Ranking\bin\Debug\net5.0\E08.Ranking.dll
+C:\Users\pc1\source\repos\SetsAndDictionariesAdvancedExercise\E08.Ranking\bin\Debug\net5.0\E08.Ranking.pdb
+C:\Users\pc1\source\repos\SetsAndDictionariesAdvancedExercise\E08.Ranking\obj\Debug\net5.0\E08.Ranking.csproj.AssemblyReference.cache
+C:\Users\pc1\source\repos\SetsAndDictionariesAdvancedExercise\E08.Ranking\obj\Debug\net5.0\E08.Ranking.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\pc1\source\repos\SetsAndDictionariesAdvancedExercise\E08.Ranking\obj\Debug\net5.0\E08.Ranking.AssemblyInfoInputs.cache
+C:\Users\pc1\source\repos\SetsAndDictionariesAdvancedExercise\E08.Ranking\obj\Debug\net5.0\E08.Ranking.AssemblyInfo.cs
+C:\Users\pc1\source\repos\SetsAndDictionariesAdvancedExercise\E08.Ranking\obj\Debug\net5.0\E08.Ranking.csproj.CoreCompileInputs.cache
+C:\Users\pc1\source\repos\SetsAndDictionariesAdvancedExercise\E08.Ranking\obj\Debug\net5.0\E08.Ranking.dll
+C:\Users\pc1\source\repos\SetsAndDictionariesAdvancedExercise\E08.Ranking\obj\Debug\net5.0\refint\E08.Ranking.dll
+C:\Users\pc1\source\repos\SetsAndDictionariesAdvancedExercise\E08.Ranking\obj\Debug\net5.0\E08.Ranking.pdb
+C:\Users\pc1\source\repos\SetsAndDictionariesAdvancedExercise\E08.Ranking\obj\Debug\net5.0\E08.Ranking.genruntimeconfig.cache
+C:\Users\pc1\source\repos\SetsAndDictionariesAdvancedExercise\E08.Ranking\obj\Debug\net5.0\ref\E08.Ranking.dll
